@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ikiebe emmanuel
 - 👀 I’m a 1st year Computer Science student
-- 🌱 I’m an intermediate python developer 
+- 🌱 I’m a software developer(In view)
 - 💞️ I’m deeply interested in information security
 - 📫 I love algorithms
 
